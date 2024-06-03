@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: my_nerf
+Version: 0.1.0
+Summary: Template repository for creating and registering new methods in nerfstudio.
+License-File: LICENSE
+Requires-Dist: nerfstudio>=0.3.0

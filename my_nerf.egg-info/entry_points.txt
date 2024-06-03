@@ -1,0 +1,3 @@
+[nerfstudio.method_configs]
+d-nerf = my_nerf.my_config:DMethod
+v-nerf = my_nerf.my_config:MyMethod
